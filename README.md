@@ -27,8 +27,10 @@ Operated with two push buttons and simple UI.
 
 ![Wiring diagram](https://github.com/panjanek/attiny85logbook/blob/1ffeb83ed07bc96e832b7d160870b4c904d53575/img/schematic.png "wiring diagram")
 
-PCB pending...
+Gerber files pending...
 
+![PCB layout](https://github.com/panjanek/attiny85logbook/blob/56c55d54027ca20edaae7995184f9218e9bcb9b6/img/logbook1-pcb.png "PCB layout")
+![PCB layout](https://github.com/panjanek/attiny85logbook/blob/56c55d54027ca20edaae7995184f9218e9bcb9b6/img/logbook1-3d.png "PCB layout")
 
 ## Software
 
