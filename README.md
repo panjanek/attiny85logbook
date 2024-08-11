@@ -1,5 +1,5 @@
-# attiny85logbook
-Geocaching digital logbook with tiny OLED screen.
+# Geocaching Gadget: attiny85logbook
+Geocaching Gadget: Geocaching digital logbook with tiny OLED screen.
 Operated with two push buttons and simple UI.
 
 ## Features
