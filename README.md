@@ -29,6 +29,15 @@ Operated with two push buttons and simple UI.
 
 PCB pending...
 
+### prototyping
+
+
+| 
+![Prototype](https://github.com/panjanek/attiny85logbook/blob/43c535eb7904cd81590bfdfc12cc7b34f31d3815/img/logbook1-proto-s.png "prototype") | ![Prototype](https://github.com/panjanek/attiny85logbook/blob/43c535eb7904cd81590bfdfc12cc7b34f31d3815/img/logbook1-menu.png "prototype") ![Prototype](https://github.com/panjanek/attiny85logbook/blob/43c535eb7904cd81590bfdfc12cc7b34f31d3815/img/logbook1-input.png "prototype") ![Prototype](https://github.com/panjanek/attiny85logbook/blob/43c535eb7904cd81590bfdfc12cc7b34f31d3815/img/logbook1-browsing.png "prototype") |
+| --------  | ------- |
+| <td colspan=2>  ![UI](https://github.com/panjanek/attiny85logbook/blob/43c535eb7904cd81590bfdfc12cc7b34f31d3815/img/animation.gif "ui")   |
+
+
 ## Software
 
 ### dependencies
