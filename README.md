@@ -8,9 +8,10 @@ Operated with two push buttons
 * Logbook entries saved in permanent EEPROM memory
 * Browsing list of saved entries
 * Auto-sleep after 30s of inacvtivity
-* Ultra low power in sleep mode - only 0.2uA
+* Wakes on button press (hard reset button is optional in case of freeze)
+* Ultra low current in sleep mode - only 0.2uA
 * Around 10-20mA when active
-* Can be powerd from two AA or AAA batteries or CR123 battery (2.8V - 5V)
+* Can be powered from two AA or AAA batteries or CR123 battery (2.8V - 5V) for years of typical usage
 
 ## Hardware
 
