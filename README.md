@@ -2,6 +2,16 @@
 Geocaching digital logbook with tiny OLED screen.
 Operated with two push buttons
 
+## Features
+
+* Allows user to enter logbook entry (typically nick), max 21 characters using simple UI with two buttons: "select" and "enter"
+* Logbook entries saved in permanent EEPROM memory
+* Browsing list of saved entries
+* Auto-sleep after 30s of inacvtivity
+* Ultra low power in sleep mode - only 0.2uA
+* Around 10-20mA when active
+* Can be powerd from two AA or AAA batteries or CR123 battery (2.8V - 5V)
+
 ## Hardware
 
 ### parts
