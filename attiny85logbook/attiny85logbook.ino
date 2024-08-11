@@ -9,13 +9,14 @@
 #define LANG_PL 1
 
 // select LANG_EN or LANG_PL
+
 #define LANGUAGE LANG_EN
+#define WELCOME_LINE2    "<geocache name>"
+#define WELCOME_LINE3    "by PanJanek123" 
 
 #if LANGUAGE == LANG_EN
 
 #define WELCOME_LINE1    "Geocache logbook:" 
-#define WELCOME_LINE2    "<geocache name>"
-#define WELCOME_LINE3    "by PanJanek123" 
 
 #define MENU_LOG         "[log]"
 #define MENU_BROWSE      "[browse]"
@@ -38,8 +39,6 @@
 #else
 
 #define WELCOME_LINE1    "Logbook geokesza:" 
-#define WELCOME_LINE2    "WielkiElektronik"
-#define WELCOME_LINE3    "by PanJanek123" 
 
 #define MENU_LOG         "[wpisz sie]"
 #define MENU_BROWSE      "[przegladaj]"
