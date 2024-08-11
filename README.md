@@ -40,7 +40,8 @@ In Arduino IDE:
 5. Set Tools -> millis()/micros<> -> Disabled
 6. Set Tools -> Builtin Serial -> No receiving, transmit only
 7. Compile the code
-8. Run Tools -> Burn bootloader
-9. Tun Sketch -> Upload using programmer
+8. Set Tools -> Programmer -> your progrmmer, USBAsp recommended
+9. Run Tools -> Burn bootloader
+10. Tun Sketch -> Upload using programmer
 
    
