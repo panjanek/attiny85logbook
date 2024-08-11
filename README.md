@@ -20,7 +20,7 @@ Operated with two push buttons and simple UI.
 1. Attiny85 microcontroller
 2. SSD1306 I2C 128x32 OLED screen
 3. 24C512 I2C EEPROM
-4. Two pushbuttons (three if you add hard reset button)
+4. Two pushbuttons (three if you add hard reset button) like this https://www.ebay.co.uk/itm/256536546595
 5. programmer - for example USBAsp
 
 ### wiring
@@ -28,14 +28,6 @@ Operated with two push buttons and simple UI.
 ![Wiring diagram](https://github.com/panjanek/attiny85logbook/blob/1ffeb83ed07bc96e832b7d160870b4c904d53575/img/schematic.png "wiring diagram")
 
 PCB pending...
-
-### prototyping
-
-
-| 
-![Prototype](https://github.com/panjanek/attiny85logbook/blob/43c535eb7904cd81590bfdfc12cc7b34f31d3815/img/logbook1-proto-s.png "prototype") | ![Prototype](https://github.com/panjanek/attiny85logbook/blob/43c535eb7904cd81590bfdfc12cc7b34f31d3815/img/logbook1-menu.png "prototype") ![Prototype](https://github.com/panjanek/attiny85logbook/blob/43c535eb7904cd81590bfdfc12cc7b34f31d3815/img/logbook1-input.png "prototype") ![Prototype](https://github.com/panjanek/attiny85logbook/blob/43c535eb7904cd81590bfdfc12cc7b34f31d3815/img/logbook1-browsing.png "prototype") |
-| --------  | ------- |
-| <td colspan=2>  ![UI](https://github.com/panjanek/attiny85logbook/blob/43c535eb7904cd81590bfdfc12cc7b34f31d3815/img/animation.gif "ui")   |
 
 
 ## Software
@@ -63,5 +55,19 @@ In Arduino IDE:
 8. Set Tools -> Programmer -> your progrmmer, USBAsp recommended
 9. Run Tools -> Burn bootloader
 10. Tun Sketch -> Upload using programmer
+
+## prototyping
+
+![UI](https://github.com/panjanek/attiny85logbook/blob/43c535eb7904cd81590bfdfc12cc7b34f31d3815/img/animation.gif "ui")
+
+![Prototype](https://github.com/panjanek/attiny85logbook/blob/43c535eb7904cd81590bfdfc12cc7b34f31d3815/img/logbook1-proto-s.png "prototype")
+![Prototype](https://github.com/panjanek/attiny85logbook/blob/43c535eb7904cd81590bfdfc12cc7b34f31d3815/img/logbook1-menu.png "prototype")
+![Prototype](https://github.com/panjanek/attiny85logbook/blob/43c535eb7904cd81590bfdfc12cc7b34f31d3815/img/logbook1-input.png "prototype")
+![Prototype](https://github.com/panjanek/attiny85logbook/blob/43c535eb7904cd81590bfdfc12cc7b34f31d3815/img/logbook1-browsing.png "prototype")
+![case 1](https://github.com/panjanek/attiny85logbook/blob/ca09125d848bf7212f28f501e1ca2bf573f435aa/img/logbook1-case1-s.png "case")
+![case 2](https://github.com/panjanek/attiny85logbook/blob/ca09125d848bf7212f28f501e1ca2bf573f435aa/img/logbook1-case2-s.png "case")
+
+
+
 
    
