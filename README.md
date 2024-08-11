@@ -46,15 +46,15 @@ PCB pending...
 ### steps to upload code to attiny
 In Arduino IDE:
 1. Install Spence Konde ATTinyCore board - may require adding  Board Manager URLs in File->PReferences. Set Additional Board Managers URLs to "http://drazzy.com/package_drazzy.com_index.json,https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json"
-2. Set Tools -> Board -> ATTinyCore -> ATTiny85/45/25 (no bootloader)
-3. Set Tools -> Chip -> ATtiny85
-4. Set Tools -> Clocksource + Speed -> 1MHz internal
-5. Set Tools -> millis()/micros<> -> Disabled
-6. Set Tools -> Builtin Serial -> No receiving, transmit only
+2. Set: Tools -> Board -> ATTinyCore -> ATTiny85/45/25 (no bootloader)
+3. Set: Tools -> Chip -> ATtiny85
+4. Set: Tools -> Clocksource + Speed -> 1MHz internal
+5. Set: Tools -> millis()/micros<> -> Disabled
+6. Set: Tools -> Builtin Serial -> No receiving, transmit only
 7. Compile the code
-8. Set Tools -> Programmer -> your progrmmer, USBAsp recommended
-9. Run Tools -> Burn bootloader
-10. Tun Sketch -> Upload using programmer
+8. Set: Tools -> Programmer -> your progrmmer, USBAsp recommended
+9. Run: Tools -> Burn bootloader
+10. Run: Sketch -> Upload using programmer
 
 ## prototyping
 
