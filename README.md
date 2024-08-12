@@ -1,5 +1,5 @@
 # Geocaching Gadget: attiny85logbook
-If you are new to geocaching go to https://www.geocaching.com/
+If you are new to geocaching go to https://www.geocaching.com/ .
 Each geocaching hide contains small paper logbook where people log their visit using pencil. 
 Additionally, geocache can contain some fun objects.
 This project is a geocaching gadget: Digital logbook with tiny OLED screen, operated with two push buttons and simple UI.
