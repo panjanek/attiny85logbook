@@ -50,7 +50,7 @@ Gerber files pending...
 
 ### steps to upload code to attiny
 In Arduino IDE:
-1. Install Spence Konde ATTinyCore board - may require adding  Board Manager URLs in File->PReferences. Set Additional Board Managers URLs to "http://drazzy.com/package_drazzy.com_index.json,https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json"
+1. Install Spence Konde ATTinyCore board - may require adding  Board Manager URLs in File->Preferences. Add Additional Board Managers URL "http://drazzy.com/package_drazzy.com_index.json"
 2. Set: Tools -> Board -> ATTinyCore -> ATTiny85/45/25 (no bootloader)
 3. Set: Tools -> Chip -> ATtiny85
 4. Set: Tools -> Clocksource + Speed -> 1MHz internal
